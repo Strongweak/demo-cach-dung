@@ -20,6 +20,7 @@ public class EnemyControl : MonoBehaviour
     }
     void FixedUpdate()
     //con mem nay
+
     {
         enemyrb.velocity = (transform.forward * moveSpeed);
     }
