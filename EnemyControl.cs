@@ -19,6 +19,8 @@ public class EnemyControl : MonoBehaviour
 
     }
     void FixedUpdate()
+    //con mem nay
+
     {
         enemyrb.velocity = (transform.forward * moveSpeed);
     }
@@ -37,4 +39,6 @@ public class EnemyControl : MonoBehaviour
         //transform.LookAt(thePlayer.transform.position);
     }
     //sdjsdojsdopjasdpjasopdpjoasdjop
+    //asoshfiuseh iuerguieh fiwhgerg
+    //asodajd oawodawjdoi ajodawjdawjoidajdawojdawjdio
 }
