@@ -36,4 +36,5 @@ public class EnemyControl : MonoBehaviour
         //face to player position (all axis)
         //transform.LookAt(thePlayer.transform.position);
     }
+    //sdjsdojsdopjasdpjasopdpjoasdjop
 }
