@@ -19,11 +19,8 @@ public class EnemyControl : MonoBehaviour
 
     }
     void FixedUpdate()
-    //sczdvgfgo xhodgjsdpvjdpvjofbv
-    //edmeibas uydg sifcse
-    //ve
-    //g erpfhewofhwo dhqwoirbwgiuo rhvodsc wef
-    
+    //con mem nay
+
     {
         enemyrb.velocity = (transform.forward * moveSpeed);
     }
@@ -42,4 +39,6 @@ public class EnemyControl : MonoBehaviour
         //transform.LookAt(thePlayer.transform.position);
     }
     //sdjsdojsdopjasdpjasopdpjoasdjop
+    //asoshfiuseh iuerguieh fiwhgerg
+    //asodajd oawodawjdoi ajodawjdawjoidajdawojdawjdio
 }
