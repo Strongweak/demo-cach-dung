@@ -19,6 +19,11 @@ public class EnemyControl : MonoBehaviour
 
     }
     void FixedUpdate()
+    //sczdvgfgo xhodgjsdpvjdpvjofbv
+    //edmeibas uydg sifcse
+    //ve
+    //g erpfhewofhwo dhqwoirbwgiuo rhvodsc wef
+    
     {
         enemyrb.velocity = (transform.forward * moveSpeed);
     }
